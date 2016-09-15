@@ -1,0 +1,5 @@
+編號,土地區段位置,土地移轉面積平方公尺,使用分區或編定
+RPWNMLSKOHLFFCQ97DC,福南段,70.76,都市：住
+RPPNMLSLOHLFFBQ17CC,嘉朴段,7.60,都市：住
+RPQNMLSLOHLFFBQ27CC,嘉朴段,7.60,都市：住
+RPQNMLSLOHLFFBQ27CC,嘉朴段,7.60,都市：住
